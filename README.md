@@ -90,7 +90,7 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 
 <p align="center">
   <a href="https://vichithchamodya-resume.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+    <img src="https://img.shields.io/badge/My CV-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
   </a>
   <a href="https://www.linkedin.com/in/vichith-wickramarathna">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -102,7 +102,7 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 
 <div align="center">
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-  <br />
+  <br/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
