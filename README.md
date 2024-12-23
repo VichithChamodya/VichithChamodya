@@ -37,27 +37,22 @@
 <img align="right" height="270px" width="350px" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 - 💻 Full Stack Developer passionate about creating impactful solutions
-- 🎓 Currently pursuing Computer Science at NIBM
+- 🎓 Currently pursuing Software Engineering at NIBM
 - 🌱 Always learning and exploring new technologies
 - 🤝 Open to collaborations on interesting projects
 
 ```yaml
-name: Vichith Chamodya
+name: Vichith Chamodya Wickramarathna
 located_in: Sri Lanka
-current_focus: Full Stack Development
-education: 
-  [
-    "Computer Science Student at NIBM",
-    "Self-Taught Developer"
-  ]
+current_focus: Mobile Application Development
+education: Software Engineering at NIBM
 fields_of_interests:
   [
+    "Mobile Application Development"
     "Web Development",
-    "Cloud Architecture",
-    "DevOps",
     "UI/UX"
   ]
-currently_learning: ["Docker", "AWS", "React Native"]
+currently_learning: ["Flutter", "Kotlin", "React Native"]
 hobbies: ["Coding", "Tech Research", "Problem Solving"]
 ```
 
