@@ -56,9 +56,11 @@ const skills = {
 
 </div>
 
-## 📈 Contribution Graph
+## 📈 GitHub Stats
 
-![Snake animation](https://github.com/VichithChamodya/VichithChamodya/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VichithChamodya&theme=radical" />
+</div>
 
 ---
 <div align="center">
