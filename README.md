@@ -83,12 +83,6 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VichithChamodya&theme=radical" />
 </div>
 
-<details>
-<summary>📈 Activity Graph at NIBM</summary>
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&theme=radical&hide_border=true&bg_color=0d1117" />
-</details>
-
 <h2>
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px">
   Connect with Me
