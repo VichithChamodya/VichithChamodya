@@ -9,6 +9,10 @@
 </p>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+</div>
+
+<div align="center">
   
   [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&margin-w=15&margin-h=15&column=7)](https://github.com/VichithChamodya)
   
