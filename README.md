@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Always%20learning%20new%20things;Passionate%20about%20coding&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Always%20learning%20new%20things;Student%20at%20NIBM;Passionate%20about%20coding&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 <div align="center">
@@ -22,7 +22,7 @@
 <h2>🚀 About Me</h2>
 
 - 💻 Full Stack Developer passionate about creating impactful solutions
-- 🎓 Currently pursuing Computer Science
+- 🎓 Currently pursuing Computer Science at NIBM
 - 🌱 Always learning and exploring new technologies
 - 🤝 Open to collaborations on interesting projects
 
@@ -32,7 +32,7 @@ located_in: Sri Lanka
 current_focus: Full Stack Development
 education: 
   [
-    "Computer Science Student",
+    "Computer Science Student at NIBM",
     "Self-Taught Developer"
   ]
 fields_of_interests:
@@ -62,12 +62,12 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 </div>
 
 <details>
-<summary>📈 Activity Graph</summary>
+<summary>📈 Activity Graph at NIBM</summary>
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&theme=radical" />
 </details>
 
-<h2>Connect with Me 💬</h2>
+<h2>🤝 Connect with Me</h2>
 
 <p align="center">
   <a href="https://vichithchamodya-resume.netlify.app/">
