@@ -1,10 +1,10 @@
 # Hi there! 👋 
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social)](https://github.com/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=VichithChamodya&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/VichithChamodya?label=Followers&style=social)](https://github.com/VichithChamodya)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ## 🚀 About Me
@@ -29,7 +29,7 @@ const skills = {
 ## 📊 Programming Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VichithChamodya&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Achievements
@@ -58,7 +58,7 @@ const skills = {
 
 ## 📈 Contribution Graph
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VichithChamodya/VichithChamodya/blob/output/github-contribution-grid-snake.svg)
 
 ---
 <div align="center">
