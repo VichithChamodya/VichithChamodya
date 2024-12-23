@@ -21,7 +21,6 @@
 
 <h2>🚀 About Me</h2>
 
-## 🚀 About Me
 - 💻 Full Stack Developer passionate about creating impactful solutions
 - 🎓 Currently pursuing Computer Science
 - 🌱 Always learning and exploring new technologies
@@ -68,7 +67,7 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&theme=radical" />
 </details>
 
-<h2>🤝 Connect with Me</h2>
+<h2>Connect with Me 💬</h2>
 
 <p align="center">
   <a href="https://vichithchamodya-resume.netlify.app/">
