@@ -21,6 +21,12 @@
 
 <h2>🚀 About Me</h2>
 
+## 🚀 About Me
+- 💻 Full Stack Developer passionate about creating impactful solutions
+- 🎓 Currently pursuing Computer Science
+- 🌱 Always learning and exploring new technologies
+- 🤝 Open to collaborations on interesting projects
+
 ```yaml
 name: Vichith Chamodya
 located_in: Sri Lanka
