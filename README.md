@@ -93,6 +93,18 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 
 
 
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="github-snake.svg" />
+  </picture>
+</div>
+
+
+
+
 
 
 
