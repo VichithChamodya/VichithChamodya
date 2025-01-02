@@ -18,13 +18,9 @@
   
 <img height="300px" width="59%" src="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"  />
 
- <div align="center"> 
-   <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&column=8" /> 
- </div> 
-
- <!-- <div align="center"> -->
- <!-- <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=radical&hide_border=true" /> -->
- <!-- </div> -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&column=8" />
+</div>
 
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
@@ -81,7 +77,9 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 <div align="center">
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VichithChamodya&layout=compact&theme=radical&hide_border=true" />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&column=4" />
+  <div align="center">
+   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=radical&hide_border=true" />
+  </div>
   
   <br>
   <br>
