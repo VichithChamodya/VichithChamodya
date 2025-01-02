@@ -34,7 +34,8 @@
   About Me
 </h2>
 
-<img align="right" height="270px" width="350px" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img align="right" height="270px" width="350px" alt="Custom GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" />
+
 
 - 💻 Full Stack Developer passionate about creating impactful solutions
 - 🎓 Currently pursuing Software Engineering at NIBM
