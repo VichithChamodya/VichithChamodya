@@ -97,6 +97,12 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   <a href="mailto:vichithwikramarathna@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.facebook.com/yourprofile](https://www.facebook.com/profile.php?id=100034749071127&mibextid=ZbWKwL">
+    <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/vichith_wickramarathna?igsh=bGkzNTF5eHFjenJh">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 <div align="center">
