@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&title_color=FF7B37&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8" />
 </div>
 
 <br>
