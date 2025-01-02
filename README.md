@@ -28,7 +28,6 @@
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=radical&hide_border=true" />
 </div>
 
-
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
   About Me
@@ -38,8 +37,8 @@
 - 🎓 Currently pursuing Software Engineering at NIBM
 - 🌱 Always learning and exploring new technologies
 - 🤝 Open to collaborations on interesting projects
-- 
-<img align="right" height="270px" width="350px" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  
+<img align="right" height="270px" width="300px" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 ```yaml
 name: Vichith Chamodya Wickramarathna
