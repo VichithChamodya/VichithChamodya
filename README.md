@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50px">
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px">
 </p>
 
 <div align="center">
@@ -30,29 +30,83 @@
 </div>
 
 <h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
   About Me
 </h2>
 
-<img align="right" height="270px" width="350px" alt="Custom GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" />
+<img align="right" height="270px" width="350px" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-- 💻 Full Stack Developer passionate about creating impactful solutions  
-- 🎓 Currently pursuing Software Engineering at NIBM  
-- 🌱 Always learning and exploring new technologies  
-- 🤝 Open to collaborations on interesting projects  
+- 💻 Full Stack Developer passionate about creating impactful solutions
+- 🎓 Currently pursuing Software Engineering at NIBM
+- 🌱 Always learning and exploring new technologies
+- 🤝 Open to collaborations on interesting projects
 
-```yaml
+yaml
 name: Vichith Chamodya Wickramarathna
 located_in: Sri Lanka
 current_focus: Mobile Application Development
 education: Software Engineering at NIBM
 fields_of_interests:
   [
-    "Mobile Application Development",
+    "Mobile Application Development"
     "Web Development",
     "UI/UX"
   ]
 currently_learning: ["Flutter", "Kotlin", "React Native"]
 hobbies: ["Coding", "Tech Research", "Problem Solving"]
-```
-<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack </h2> <p align="center"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="50" style="transform: scale(1.2); transition: 0.3s;" onmouseover="this.style.transform='scale(1.5)'" onmouseout="this.style.transform='scale(1.2)'"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50"> </p> <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VichithChamodya&layout=compact&theme=radical&hide_border=true" /> <br><br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VichithChamodya&theme=radical" /> </div> <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> Connect with Me </h2> <p align="center"> <a href="https://vichithchamodya-resume.netlify.app/"> <img src="https://img.shields.io/badge/My CV-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /> </a> <a href="https://www.linkedin.com/in/vichith-wickramarathna"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:vichithwikramarathna@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <div align="center"> <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <br/> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/> <!-- Profile Views Counter --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=VichithChamodya&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" /> </p>
+
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+  Tech Stack
+</h2>
+
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50">
+</p>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VichithChamodya&layout=compact&theme=radical&hide_border=true" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VichithChamodya&theme=radical" />
+</div>
+
+<h2>
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px">
+  Connect with Me
+</h2>
+
+<p align="center">
+  <a href="https://vichithchamodya-resume.netlify.app/">
+    <img src="https://img.shields.io/badge/My CV-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+  </a>
+  <a href="https://www.linkedin.com/in/vichith-wickramarathna">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vichithwikramarathna@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  <br/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VichithChamodya&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
