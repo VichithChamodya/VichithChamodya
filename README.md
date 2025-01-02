@@ -29,6 +29,18 @@
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=radical&hide_border=true" />
 </div>
 
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="github-snake.svg" />
+  </picture>
+</div>
+
+<!-- Activity Graph -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&bg_color=0d1117&color=ff91a4&line=ff91a4&point=ff91a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
   About Me
@@ -41,7 +53,7 @@
 - 🌱 Always learning and exploring new technologies
 - 🤝 Open to collaborations on interesting projects
 
-yaml
+```yaml
 name: Vichith Chamodya Wickramarathna
 located_in: Sri Lanka
 current_focus: Mobile Application Development
@@ -54,6 +66,7 @@ fields_of_interests:
   ]
 currently_learning: ["Flutter", "Kotlin", "React Native"]
 hobbies: ["Coding", "Tech Research", "Problem Solving"]
+```
 
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
@@ -75,6 +88,19 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50">
 </p>
+
+<!-- GitHub Stats Cards in grid -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=VichithChamodya&repo=your-best-repo-1&theme=radical&hide_border=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=VichithChamodya&repo=your-best-repo-2&theme=radical&hide_border=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=VichithChamodya&repo=your-best-repo-3&theme=radical&hide_border=true"/>
+  </a>
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VichithChamodya&layout=compact&theme=radical&hide_border=true" />
