@@ -20,7 +20,7 @@
 
 <img align="left" height="300px" width="350px" alt="Custom GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" />
 
-<img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"  />
+<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"  />
 
 <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=2" />
 
