@@ -16,7 +16,7 @@
 
 <img align="left"  width="350px" alt="Custom GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" />
   
-<img height="300px" width="600px" src="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"  />
+<img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"  />
 
 <!-- <div align="center"> -->
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&column=8" /> -->
