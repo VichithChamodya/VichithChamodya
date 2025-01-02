@@ -19,11 +19,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&title_color=FF7B37"" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=juicyfresh&no-frame=true&no-bg=false&column=7&title_color=FF7B37" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&title_color=FF7B37" />
 </div>
 
 <br>
