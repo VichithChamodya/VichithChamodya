@@ -14,9 +14,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px">
-</p>
+
 
 <img align="left" height="300px" width="350px" alt="Custom GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" />
 
