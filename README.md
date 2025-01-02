@@ -28,7 +28,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=radical&hide_border=true" />
 </div>
 
