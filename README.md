@@ -14,15 +14,11 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px">
-</p>
-
 <img align="left" height="300px" width="350px" alt="Custom GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" />
 
 <img width="50%" height="295px" src="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"  />
 
-<img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=2" />
+<img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
 
 <br>
 
