@@ -98,14 +98,9 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 </p>
 
 <div align="center">
-  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  <img height="120" alt="Thanks for visiting me" width="100%" style="color: #FF5733" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
   <br/>
 </div>
-
-<div style="color: #FF5733; font-size: 24px; font-family: Arial, sans-serif; text-align: center;">
-  Thanks for visiting me
-</div>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 
