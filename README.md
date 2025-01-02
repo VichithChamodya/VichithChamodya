@@ -110,7 +110,7 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%!&animation=fadeIn&fontColor=fff&fontSize=25" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting%20my%20%20profile%20!&animation=fadeIn&fontColor=fff&fontSize=25" />
 </div>
 
 <!-- Profile Views Counter -->
