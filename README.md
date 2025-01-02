@@ -102,7 +102,7 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   <br/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&text=Hello%20World!&height=100&section=header&animation=fadeIn&fontColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Hello%20World!&animation=fadeIn&fontColor=fff"/>
 
 <!-- Profile Views Counter -->
 <p align="center">
