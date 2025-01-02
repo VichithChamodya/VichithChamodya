@@ -18,6 +18,8 @@
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px">
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" />
 </div>
