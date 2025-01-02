@@ -7,12 +7,12 @@
   Welcome to Vichith Chamodya's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile+App+Developer;UI%2FUX+Designer;Always%20learning%20new%20things;Student%20at%20NIBM;Passionate%20about%20coding&font=Righteous&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30&pause=1000">
-  </a>
-</p></h2>
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile+App+Developer;UI%2FUX+Designer;Always%20learning%20new%20things;Student%20at%20NIBM;Passionate%20about%20coding&font=Righteous&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30&pause=1000">
+    </a>
+  </p>
+</h2>
 
 <img align="left" width="39%" alt="Custom GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" />
   
@@ -22,9 +22,9 @@
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&column=8" /> -->
 <!-- </div> -->
 
-<!-- <div align="center"> -->
-<!--   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=radical&hide_border=true" /> -->
-<!-- </div> -->
+ <div align="center"> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=radical&hide_border=true" /> 
+ </div> 
 
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
