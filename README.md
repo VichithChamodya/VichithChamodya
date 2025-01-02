@@ -102,7 +102,12 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   <br/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f75c7e&height=100&section=footer&animation=twinkling"/>
+<div style="color: #FF5733; font-size: 24px; font-family: Arial, sans-serif; text-align: center;">
+  Thanks for visiting me
+</div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 
 <!-- Profile Views Counter -->
 <p align="center">
