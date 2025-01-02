@@ -40,7 +40,7 @@
   
 <img align="right" height="270px" width="300px" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-```yaml
+```dart
 name: Vichith Chamodya Wickramarathna
 located_in: Sri Lanka
 current_focus: Mobile Application Development
