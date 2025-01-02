@@ -38,9 +38,9 @@
 - 🌱 Always learning and exploring new technologies
 - 🤝 Open to collaborations on interesting projects
   
-<img align="right" height="270px" width="300px" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img align="right" height="320px" width="380px" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-```dart
+```js
 name: Vichith Chamodya Wickramarathna
 located_in: Sri Lanka
 current_focus: Mobile Application Development
