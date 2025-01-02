@@ -33,46 +33,4 @@
 
 <img align="right" height="350px" width="400px" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-- 💻 Full Stack Developer passionate about creating impactful solutions
-- 🎓 Currently pursuing Software Engineering at NIBM
-- 🌱 Always learning and exploring new technologies
-- 🤝 Open to collaborations on interesting projects
-  
-
-
-```js
-name: Vichith Chamodya Wickramarathna
-located_in: Sri Lanka
-current_focus: Mobile Application Development
-education: Software Engineering at NIBM
-fields_of_interests:
-  [
-    "Mobile Application Development"
-    "Web Development",
-    "UI/UX"
-  ]
-currently_learning: ["Flutter", "Kotlin", "React Native"]
-hobbies: ["Coding", "Tech Research", "Problem Solving"]
-```
-
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  Tech Stack
-</h2>
-
-<p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50">
-</p>
 
