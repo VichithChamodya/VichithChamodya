@@ -31,12 +31,14 @@
   About Me
 </h2>
 
+<img align="right" height="350px" width="400px" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
 - 💻 Full Stack Developer passionate about creating impactful solutions
 - 🎓 Currently pursuing Software Engineering at NIBM
 - 🌱 Always learning and exploring new technologies
 - 🤝 Open to collaborations on interesting projects
   
-<img align="right" height="320px" width="380px" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
 
 ```js
 name: Vichith Chamodya Wickramarathna
