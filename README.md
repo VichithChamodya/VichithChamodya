@@ -93,7 +93,7 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vichithwikramarathna@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=f75c7e" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -102,7 +102,7 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   <br/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%!&animation=fadeIn&fontColor=fff&fontSize=25" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%!&animation=fadeIn&fontColor=f75c7e&fontSize=25" />
 
 <!-- Profile Views Counter -->
 <p align="center">
