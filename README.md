@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World!&height=100&section=header&animation=fadeIn&fontColor=fff"/>
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=F7D433&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Designer;Code+Enthusiast" alt="Typing SVG"/>
-  </a>
-</div>
-
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Welcome to Vichith Chamodya's profile!
@@ -15,7 +9,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Always%20learning%20new%20things;Student%20at%20NIBM;Passionate%20about%20coding&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
   </a>
 </p>
@@ -24,14 +18,11 @@
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px">
 </p>
 
-
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" />
 </div>
 
 <br>
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> -->
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" /> 
