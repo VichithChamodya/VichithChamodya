@@ -21,7 +21,7 @@
 <img align="right" height="270px" width="350px" alt="Custom GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
 </div>
 
 <br>
