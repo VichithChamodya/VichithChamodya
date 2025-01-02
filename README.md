@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World!&height=100&section=header&animation=fadeIn&fontColor=fff"/>
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=F7D433&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Designer;Code+Enthusiast" alt="Typing SVG"/>
+  </a>
+</div>
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Welcome to Vichith Chamodya's profile!
