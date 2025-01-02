@@ -107,10 +107,11 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 
 <div align="center">
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-  <br/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%!&animation=fadeIn&fontColor=fff&fontSize=25" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%!&animation=fadeIn&fontColor=fff&fontSize=25" />
+</div>
 
 <!-- Profile Views Counter -->
 <p align="center">
