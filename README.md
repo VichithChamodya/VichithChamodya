@@ -21,7 +21,7 @@
 <br>
 
 <div>
-  <img align="right" src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5&column=4" />
+  <img align="right" src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&column=4" />
   
   <img align="left" width="40%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=radical&hide_border=true" />
 </div>
