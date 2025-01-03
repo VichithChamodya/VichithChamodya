@@ -58,9 +58,13 @@
 
 <img align="right" height="300px" width="350px" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-- 💻 Full Stack Developer passionate about creating impactful solutions
+- 💻 Versatile Software Developer skilled in for mobile apps and web development
 - 🎓 Currently pursuing Software Engineering at NIBM
-- 🌱 Always learning and exploring new technologies
+- 📚 Proficient in Java, JavaScript, SQL, and Python
+- 🚀 Always exploring innovative technologies and trends in the tech industry
+- 💡 Known for adaptability and quick learning of new tools and frameworks
+- 🎯 Focused on delivering high-quality software that exceeds expectations
+- 🌐 Driven to contribute to cutting-edge and creative software initiatives
 - 🤝 Open to collaborations on interesting projects
 
 ```js
