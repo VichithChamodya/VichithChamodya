@@ -1,7 +1,6 @@
 <!-- <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling&fontColor=fff"/>
 </div> -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=20&section=footer"/>
 
 <!-- Animated cosmic background -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=%20Hello%20World%20!%20&fontSize=70&color=gradient" />
@@ -13,16 +12,13 @@
 <!-- <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" width="100%"> -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer"/>
 </div>
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Welcome to Vichith Chamodya's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
-  
 
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -31,7 +27,7 @@
   </p>
 
   <div align="center">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer&fontColor=fff"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header&fontColor=fff"/>
   </div>
   
 </h2>
