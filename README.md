@@ -103,9 +103,9 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 <br>
 
 <div align="center">
-  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VichithChamodya&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VichithChamodya&layout=compact&theme=radical&hide_border=true" />
 
-  <img align="right" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=radical&hide_border=true" />
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=radical&hide_border=true" />
   
   <br>
   <br>
