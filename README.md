@@ -3,7 +3,7 @@
 </div> -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header"/>
 </div>
 
 <!-- Animated cosmic background -->
@@ -14,10 +14,6 @@
 
 <!-- Tech stack flow -->
 <!-- <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" width="100%"> -->
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header"/>
-</div>
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
