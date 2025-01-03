@@ -2,6 +2,10 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling&fontColor=fff"/>
 </div> -->
 
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer"/>
+</div>
+
 <!-- Animated cosmic background -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=%20Hello%20World%20!%20&fontSize=70&color=gradient" />
 
@@ -15,7 +19,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header"/>
 </div>
 
-<div align="center">
+<h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Welcome to Vichith Chamodya's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -25,12 +29,8 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile+App+Developer;UI%2FUX+Designer;Always%20learning%20new%20things;Student%20at%20NIBM;Passionate%20about%20coding&font=Righteous&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30&pause=1000">
     </a>
   </p>
-
-  <div align="center">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer"/>
-  </div>
   
-</div>
+</h2>
 
 <img align="left" width="39%" alt="Custom GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" />
   
