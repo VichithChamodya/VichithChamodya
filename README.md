@@ -42,8 +42,6 @@
 - 🎓 Currently pursuing Software Engineering at NIBM
 - 🌱 Always learning and exploring new technologies
 - 🤝 Open to collaborations on interesting projects
-  
-
 
 ```js
 name: Vichith Chamodya Wickramarathna
