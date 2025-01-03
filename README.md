@@ -3,7 +3,7 @@
 </div> -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header&animation=twinkling&fontColor=fff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=55&section=header&animation=twinkling&fontColor=fff"/>
 </div>
 
 <!-- Animated cosmic background -->
