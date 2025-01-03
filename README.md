@@ -28,7 +28,7 @@
   
 <img height="300px" width="59%" src="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=f75c7e&text_color=c9d1d9&bg_color=0d1117"  />
 
-<!-- Snake Animation -->
+<!-- Snake -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VichithChamodya/VichithChamodya/output/github-contribution-grid-snake-dark.svg">
