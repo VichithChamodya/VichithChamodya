@@ -2,6 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World!&height=100&section=header&animation=fadeIn&fontColor=fff"/>
 </div>
 
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="github-snake.svg" />
+  </picture>
+</div>
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Welcome to Vichith Chamodya's profile!
@@ -93,14 +102,7 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 
 
 
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="github-snake.svg" />
-  </picture>
-</div>
+
 
 
 
