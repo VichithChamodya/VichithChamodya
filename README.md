@@ -97,19 +97,6 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&bg_color=0d1117&color=ff91a4&line=ff91a4&point=ff91a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h2>
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px">
   Connect with Me
@@ -137,7 +124,7 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   <img height="50" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>
 <div align="center">
-  <img height="50" alt="Coding in progress" width="100%" src="YOUR_REPOSITORY_URL/custom-marquee.svg" />
+  <img height="50" alt="Coding in progress" width="100%" src="https://github.com/VichithChamodya/VichithChamodya/blob/main/custom-marquee.svg" />
 </div>
 
 <div align="center">
