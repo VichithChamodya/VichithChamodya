@@ -110,7 +110,7 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VichithChamodya&theme=radical" />
 
   <!-- Activity Graph -->
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&bg_color=0d1117&color=ff91a4&line=ff91a4&point=ff91a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&bg_color=transparent&color=ffffff&line=ff91a4&point=f75c7e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <h2>
