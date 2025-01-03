@@ -58,10 +58,10 @@
 
 <img align="right" height="300px" width="350px" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-- 💻 Versatile Software Developer skilled in for mobile apps and web development
+- 💻 Versatile Software Developer skilled in for mobile & web development
 - 🎓 Currently pursuing Software Engineering at NIBM
 - 📚 Proficient in Java, JavaScript, SQL, and Python
-- 🚀 Always exploring innovative technologies and trends in the tech industry
+- 🚀 Always exploring innovative technologies & trends in tech industry
 - 💡 Known for adaptability and quick learning of new tools and frameworks
 - 🎯 Focused on delivering high-quality software that exceeds expectations
 - 🌐 Driven to contribute to cutting-edge and creative software initiatives
