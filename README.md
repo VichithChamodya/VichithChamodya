@@ -14,6 +14,7 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile+App+Developer;UI%2FUX+Designer;Always%20learning%20new%20things;Student%20at%20NIBM;Passionate%20about%20coding&font=Righteous&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30&pause=1000">
     </a>
   </p>
+</h2>
   <!-- Snake Animation -->
 <div align="center">
   <picture>
@@ -22,7 +23,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VichithChamodya/VichithChamodya/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-</h2>
+
 
 <img align="left" width="39%" alt="Custom GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" />
   
