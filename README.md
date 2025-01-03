@@ -1,17 +1,10 @@
 <!-- <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling&fontColor=fff"/>
 </div> -->
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header&animation=twinkling&fontColor=fff"/>
-</div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer"/>
 
 <!-- Animated cosmic background -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=%20Hello%20World%20!%20&fontSize=70&color=gradient" />
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer&animation=twinkling&fontColor=fff"/>
-</div>
 
 <!-- Dotted line -->
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=1"> -->
@@ -20,7 +13,8 @@
 <!-- <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" width="100%"> -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header&fontColor=fff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header"/>
+
 </div>
 
 <h2 align="center">
