@@ -26,7 +26,7 @@
 
 <img align="left" width="39%" alt="Custom GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" />
   
-<img height="300px" width="59%" src="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"  />
+<img height="300px" width="59%" src="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=f75c7e&text_color=c9d1d9&bg_color=0d1117"  />
 
 <!-- Snake Animation -->
 <div align="center">
@@ -150,5 +150,5 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VichithChamodya&label=Profile%20views&color=f75c7e&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VichithChamodya&label=Profile%20views&color=f63c64&style=for-the-badge" alt="Profile Views" />
 </p>
