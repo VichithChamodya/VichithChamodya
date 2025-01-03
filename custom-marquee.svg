@@ -25,7 +25,7 @@
           height: 50px;
           position: absolute;
           overflow: hidden;
-          animation: marquee 30s linear infinite;
+          animation: marquee 10s linear infinite;
           color: #f75c7e;
           font-family: monospace;
           font-size: 20px;
