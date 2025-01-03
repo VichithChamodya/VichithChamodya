@@ -120,9 +120,10 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   </a>
 </p>
 
-<div align="center">
-  <img height="50" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-</div>
+<!--<div align="center"> -->
+<!--  <img height="50" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> -->
+<!-- </div> -->
+
 <div align="center">
   <img height="50" alt="Coding in progress" width="100%" src="https://github.com/VichithChamodya/VichithChamodya/blob/main/custom-marquee.svg" />
 </div>
