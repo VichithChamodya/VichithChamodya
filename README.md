@@ -112,6 +112,8 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VichithChamodya&theme=radical" /> -->
 
   <br>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <!-- Activity Graph -->
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&bg_color=transparent&color=ffffff&line=ff91a4&point=f75c7e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -152,7 +154,7 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting%20my%20%20profile%20!&animation=fadeIn&fontColor=fff&fontSize=25" />
 </div>
 
-<!-- Profile Views Counter -->
+<!-- Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VichithChamodya&label=Profile%20views&color=f63c64&style=for-the-badge" alt="Profile Views" />
 </p>
