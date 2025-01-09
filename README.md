@@ -4,7 +4,6 @@
 
 <!-- Animated cosmic background -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%20World%20!&fontSize=70&color=gradient" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%20World%20!&fontSize=70&color=gradient" />
 
 
 <!-- Dotted line -->
