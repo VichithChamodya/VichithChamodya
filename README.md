@@ -5,7 +5,6 @@
 <!-- Animated cosmic background -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%20World%20!&fontSize=70&color=gradient" />
 
-
 <!-- Dotted line -->
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=1"> -->
 
@@ -65,7 +64,7 @@
 - 🌐 Driven to contribute to cutting-edge and creative software initiatives
 - 🤝 Open to collaborations on interesting projects
 
-```js
+```python
 name: Vichith Chamodya Wickramarathna
 located_in: Sri Lanka
 current_focus: Mobile Application Development
