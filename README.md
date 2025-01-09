@@ -64,7 +64,7 @@
 - 🌐 Driven to contribute to cutting-edge and creative software initiatives
 - 🤝 Open to collaborations on interesting projects
 
-```python
+```go
 name: Vichith Chamodya Wickramarathna
 located_in: Sri Lanka
 current_focus: Mobile Application Development
