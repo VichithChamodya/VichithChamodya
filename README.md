@@ -149,9 +149,6 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 <div align="center">
   <img height="50" alt="Coding in progress" width="100%" src="https://github.com/VichithChamodya/VichithChamodya/blob/main/custom-marquee.svg" />
 </div>
-<div align="center">
-  <img height="50" alt="Coding in progress" width="100%" src="https://github.com/VichithChamodya/VichithChamodya/blob/main/custom-marquee.svg" />
-</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting%20my%20%20profile%20!&animation=fadeIn&fontColor=fff&fontSize=25" />
