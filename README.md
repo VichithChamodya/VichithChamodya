@@ -80,7 +80,7 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 ```
 
 <br>
-<br>
+
 <br>
 
 <h2>
