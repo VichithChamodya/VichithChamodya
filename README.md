@@ -63,6 +63,7 @@
 - 🎯 Focused on delivering high-quality software that exceeds expectations
 - 🌐 Driven to contribute to cutting-edge and creative software initiatives
 - 🤝 Open to collaborations on interesting projects
+- 
 
 ```js
 name: Vichith Chamodya Wickramarathna
