@@ -8,7 +8,6 @@
 <!-- Dotted line -->
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=1"> -->
 
-
 <!-- Tech stack flow -->
 <!-- <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" width="100%"> -->
 
