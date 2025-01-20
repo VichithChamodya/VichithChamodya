@@ -158,4 +158,3 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VichithChamodya&label=Profile%20views&color=f63c64&style=for-the-badge" alt="Profile Views" />
 </p>
-
