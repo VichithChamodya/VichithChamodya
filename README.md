@@ -100,13 +100,20 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   Tech Stack
 </h2>
 
-<!-- Tech icons with theme support using picture tags -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,kotlin,java,javascript,python,html,css,php,react,jquery,bootstrap,firebase,mysql&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,kotlin,java,javascript,python,html,css,php,react,jquery,bootstrap,firebase,mysql&theme=light">
-    <img src="https://skillicons.dev/icons?i=flutter,kotlin,java,javascript,python,html,css,php,react,jquery,bootstrap,firebase,mysql&theme=dark" />
-  </picture>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50">
 </p>
 
 <br>
