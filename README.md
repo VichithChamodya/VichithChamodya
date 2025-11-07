@@ -1,5 +1,15 @@
+<!-- <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling&fontColor=fff"/>
+</div> -->
+
 <!-- Animated cosmic background -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%20World%20!&fontSize=70&color=gradient" />
+
+<!-- Dotted line -->
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=1"> -->
+
+<!-- Tech stack flow -->
+<!-- <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" width="100%"> -->
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -14,19 +24,7 @@
   
 </h2>
 
-<!-- GitHub Stats with theme support -->
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=f75c7e&text_color=c9d1d9&bg_color=0d1117"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=2C3E50&icon_color=E74C3C&text_color=2C3E50&bg_color=FFFFFF"
-    media="(prefers-color-scheme: light)"
-  />
-  <img align="left" height="300px" width="55%" src="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=f75c7e&text_color=c9d1d9&bg_color=0d1117" />
-</picture>
-
+<img align="left" height="300px" width="55%" src="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=f75c7e&text_color=c9d1d9&bg_color=0d1117"  />
 <img width="35%" alt="Custom GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" />
 
 <p>contributions</p>
@@ -36,27 +34,17 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VichithChamodya/VichithChamodya/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VichithChamodya/VichithChamodya/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VichithChamodya/VichithChamodya/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VichithChamodya/VichithChamodya/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer"/>
 </div>
 
-<!-- Trophies with theme support -->
 <div align="center">
-  <picture>
-    <source 
-      srcset="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=flat&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=8"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8" />
 </div>
 
 <div align="center">
@@ -100,60 +88,37 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   Tech Stack
 </h2>
 
-<!-- Tech icons with theme support - Fixed version -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,kotlin,java,js,py,html,css,php,react,jquery,bootstrap,firebase,mysql&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,kotlin,java,js,py,html,css,php,react,jquery,bootstrap,firebase,mysql&theme=light">
-    <img src="https://skillicons.dev/icons?i=flutter,kotlin,java,js,py,html,css,php,react,jquery,bootstrap,firebase,mysql" alt="Tech Stack" />
-  </picture>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50">
 </p>
 
 <br>
 
 <div align="center">
-  <!-- Top Languages with theme support -->
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VichithChamodya&layout=compact&theme=radical&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VichithChamodya&layout=compact&theme=default&hide_border=true&title_color=2C3E50&text_color=2C3E50&bg_color=FFFFFF"
-      media="(prefers-color-scheme: light)"
-    />
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VichithChamodya&layout=compact&theme=radical&hide_border=true" />
-  </picture>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VichithChamodya&layout=compact&theme=radical&hide_border=true" />
 
-  <!-- Streak Stats with theme support -->
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=radical&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=default&hide_border=true&ring=E74C3C&fire=E74C3C&currStreakLabel=2C3E50&sideLabels=2C3E50&currStreakNum=2C3E50&dates=2C3E50&sideNums=2C3E50&background=FFFFFF"
-      media="(prefers-color-scheme: light)"
-    />
-    <img height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=radical&hide_border=true" />
-  </picture>
+  <img height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=radical&hide_border=true" />
+  
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VichithChamodya&theme=radical" /> -->
 
   <br>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <!-- Activity Graph with theme support -->
-  <picture>
-    <source 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&bg_color=0d1117&color=c9d1d9&line=ff91a4&point=f75c7e&area=true&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&bg_color=ffffff&color=2C3E50&line=E74C3C&point=E74C3C&area=true&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&bg_color=0d1117&color=c9d1d9&line=ff91a4&point=f75c7e&area=true&hide_border=true" width="100%"/>
-  </picture>
+  <!-- Activity Graph -->
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&bg_color=transparent&color=ffffff&line=ff91a4&point=f75c7e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <h2>
@@ -171,13 +136,17 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   <a href="mailto:vichithwikramarathna@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100034749071127&mibextid=ZbWKwL">
+  <a href="https://www.facebook.com/yourprofile](https://www.facebook.com/profile.php?id=100034749071127&mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/vichith_wickramarathna?igsh=bGkzNTF5eHFjenJh">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+<!--<div align="center"> -->
+<!--  <img height="50" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> -->
+<!-- </div> -->
 
 <div align="center">
   <img height="50" alt="Coding in progress" width="100%" src="https://github.com/VichithChamodya/VichithChamodya/blob/main/custom-marquee.svg" />
