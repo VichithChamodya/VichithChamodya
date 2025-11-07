@@ -1,5 +1,5 @@
 <!-- Animated cosmic background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%20World%20!&fontSize=70&color=0:FFAFBD,100:FFC3A0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%20World%20!&fontSize=70&color=gradient" />
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -8,13 +8,25 @@
 
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile+App+Developer;UI%2FUX+Designer;Always%20learning%20new%20things;Student%20at%20NIBM;Exploring%20Flutter,%20Kotlin,%20and%20Beyond%20&font=Righteous&center=true&width=550&height=45&color=2C3E50&vCenter=true&size=30&pause=1000">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile+App+Developer;UI%2FUX+Designer;Always%20learning%20new%20things;Student%20at%20NIBM;Exploring%20Flutter,%20Kotlin,%20and%20Beyond%20&font=Righteous&center=true&width=550&height=45&color=f75c7e&vCenter=true&size=30&pause=1000">
     </a>
   </p>
   
 </h2>
 
-<img align="left" height="300px" width="55%" src="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=2C3E50&icon_color=E74C3C&text_color=2C3E50&bg_color=FFFFFF"  />
+<!-- GitHub Stats with theme support -->
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=f75c7e&text_color=c9d1d9&bg_color=0d1117"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=2C3E50&icon_color=E74C3C&text_color=2C3E50&bg_color=FFFFFF"
+    media="(prefers-color-scheme: light)"
+  />
+  <img align="left" height="300px" width="55%" src="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=f75c7e&text_color=c9d1d9&bg_color=0d1117" />
+</picture>
+
 <img width="35%" alt="Custom GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" />
 
 <p>contributions</p>
@@ -24,20 +36,31 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VichithChamodya/VichithChamodya/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VichithChamodya/VichithChamodya/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VichithChamodya/VichithChamodya/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VichithChamodya/VichithChamodya/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFBD,100:FFC3A0&height=50&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer"/>
+</div>
+
+<!-- Trophies with theme support -->
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=flat&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=8"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=flat&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=8" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFBD,100:FFC3A0&height=50&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header"/>
 </div>
 
 <h2>
@@ -77,35 +100,60 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   Tech Stack
 </h2>
 
+<!-- Tech icons with theme support using picture tags -->
 <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Light.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Light.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Light.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="50">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,kotlin,java,javascript,python,html,css,php,react,jquery,bootstrap,firebase,mysql&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,kotlin,java,javascript,python,html,css,php,react,jquery,bootstrap,firebase,mysql&theme=light">
+    <img src="https://skillicons.dev/icons?i=flutter,kotlin,java,javascript,python,html,css,php,react,jquery,bootstrap,firebase,mysql&theme=dark" />
+  </picture>
 </p>
 
 <br>
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VichithChamodya&layout=compact&theme=default&hide_border=true&title_color=2C3E50&text_color=2C3E50&bg_color=FFFFFF" />
+  <!-- Top Languages with theme support -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VichithChamodya&layout=compact&theme=radical&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VichithChamodya&layout=compact&theme=default&hide_border=true&title_color=2C3E50&text_color=2C3E50&bg_color=FFFFFF"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VichithChamodya&layout=compact&theme=radical&hide_border=true" />
+  </picture>
 
-  <img height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=default&hide_border=true&ring=E74C3C&fire=E74C3C&currStreakLabel=2C3E50&sideLabels=2C3E50&currStreakNum=2C3E50&dates=2C3E50&sideNums=2C3E50&background=FFFFFF" />
+  <!-- Streak Stats with theme support -->
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=radical&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=default&hide_border=true&ring=E74C3C&fire=E74C3C&currStreakLabel=2C3E50&sideLabels=2C3E50&currStreakNum=2C3E50&dates=2C3E50&sideNums=2C3E50&background=FFFFFF"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=radical&hide_border=true" />
+  </picture>
 
   <br>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <!-- Activity Graph -->
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&bg_color=ffffff&color=2C3E50&line=E74C3C&point=E74C3C&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <!-- Activity Graph with theme support -->
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&bg_color=0d1117&color=c9d1d9&line=ff91a4&point=f75c7e&area=true&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&bg_color=ffffff&color=2C3E50&line=E74C3C&point=E74C3C&area=true&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&bg_color=0d1117&color=c9d1d9&line=ff91a4&point=f75c7e&area=true&hide_border=true" width="100%"/>
+  </picture>
 </div>
 
 <h2>
@@ -136,10 +184,10 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFBD,100:FFC3A0&height=120&section=footer&text=Thanks%20for%20visiting%20my%20%20profile%20!&animation=fadeIn&fontColor=2C3E50&fontSize=25" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting%20my%20%20profile%20!&animation=fadeIn&fontColor=fff&fontSize=25" />
 </div>
 
 <!-- Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VichithChamodya&label=Profile%20views&color=E74C3C&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VichithChamodya&label=Profile%20views&color=f63c64&style=for-the-badge" alt="Profile Views" />
 </p>
