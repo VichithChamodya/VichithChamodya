@@ -1,15 +1,5 @@
-<!-- <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling&fontColor=fff"/>
-</div> -->
-
 <!-- Animated cosmic background -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%20World%20!&fontSize=70&color=gradient" />
-
-<!-- Dotted line -->
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=1"> -->
-
-<!-- Tech stack flow -->
-<!-- <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" width="100%"> -->
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -24,7 +14,19 @@
   
 </h2>
 
-<img align="left" height="300px" width="55%" src="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=f75c7e&text_color=c9d1d9&bg_color=0d1117"  />
+<!-- GitHub Stats with theme support -->
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=f75c7e&text_color=c9d1d9&bg_color=0d1117"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=2C3E50&icon_color=E74C3C&text_color=2C3E50&bg_color=FFFFFF"
+    media="(prefers-color-scheme: light)"
+  />
+  <img align="left" height="300px" width="55%" src="https://github-readme-stats.vercel.app/api?username=VichithChamodya&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=f75c7e&text_color=c9d1d9&bg_color=0d1117" />
+</picture>
+
 <img width="35%" alt="Custom GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" />
 
 <p>contributions</p>
@@ -34,17 +36,27 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VichithChamodya/VichithChamodya/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VichithChamodya/VichithChamodya/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VichithChamodya/VichithChamodya/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VichithChamodya/VichithChamodya/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer"/>
 </div>
 
+<!-- Trophies with theme support -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8" />
+  <picture>
+    <source 
+      srcset="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=flat&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=8"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8" />
+  </picture>
 </div>
 
 <div align="center">
@@ -88,37 +100,145 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   Tech Stack
 </h2>
 
+<!-- Tech icons with theme support - Using individual devicons with picture tags -->
 <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50">
+  <!-- Flutter -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" alt="Flutter" />
+  </picture>
+  &nbsp;
+  <!-- Kotlin -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" alt="Kotlin" />
+  </picture>
+  &nbsp;
+  <!-- Java -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
+  </picture>
+  &nbsp;
+  <!-- JavaScript -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+  </picture>
+  &nbsp;
+  <!-- Python -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
+  </picture>
+  &nbsp;
+  <!-- HTML -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5" />
+  </picture>
+  &nbsp;
+  <!-- CSS -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" />
+  </picture>
+  &nbsp;
+  <!-- PHP -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP" />
+  </picture>
+  &nbsp;
+  <!-- React -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" />
+  </picture>
+  &nbsp;
+  <!-- jQuery -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50" alt="jQuery" />
+  </picture>
+  &nbsp;
+  <!-- Bootstrap -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap" />
+  </picture>
+  &nbsp;
+  <!-- Firebase -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase" />
+  </picture>
+  &nbsp;
+  <!-- MySQL -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" />
+  </picture>
 </p>
 
 <br>
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VichithChamodya&layout=compact&theme=radical&hide_border=true" />
+  <!-- Top Languages with theme support -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VichithChamodya&layout=compact&theme=radical&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VichithChamodya&layout=compact&theme=default&hide_border=true&title_color=2C3E50&text_color=2C3E50&bg_color=FFFFFF"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VichithChamodya&layout=compact&theme=radical&hide_border=true" />
+  </picture>
 
-  <img height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=radical&hide_border=true" />
-  
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VichithChamodya&theme=radical" /> -->
+  <!-- Streak Stats with theme support -->
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=radical&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=default&hide_border=true&ring=E74C3C&fire=E74C3C&currStreakLabel=2C3E50&sideLabels=2C3E50&currStreakNum=2C3E50&dates=2C3E50&sideNums=2C3E50&background=FFFFFF"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=VichithChamodya&theme=radical&hide_border=true" />
+  </picture>
 
   <br>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <!-- Activity Graph -->
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&bg_color=transparent&color=ffffff&line=ff91a4&point=f75c7e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <!-- Activity Graph with theme support -->
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&bg_color=0d1117&color=c9d1d9&line=ff91a4&point=f75c7e&area=true&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&bg_color=ffffff&color=2C3E50&line=E74C3C&point=E74C3C&area=true&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VichithChamodya&bg_color=0d1117&color=c9d1d9&line=ff91a4&point=f75c7e&area=true&hide_border=true" width="100%"/>
+  </picture>
 </div>
 
 <h2>
@@ -136,17 +256,13 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   <a href="mailto:vichithwikramarathna@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/yourprofile](https://www.facebook.com/profile.php?id=100034749071127&mibextid=ZbWKwL">
+  <a href="https://www.facebook.com/profile.php?id=100034749071127&mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/vichith_wickramarathna?igsh=bGkzNTF5eHFjenJh">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-<!--<div align="center"> -->
-<!--  <img height="50" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> -->
-<!-- </div> -->
 
 <div align="center">
   <img height="50" alt="Coding in progress" width="100%" src="https://github.com/VichithChamodya/VichithChamodya/blob/main/custom-marquee.svg" />
