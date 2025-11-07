@@ -100,12 +100,12 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   Tech Stack
 </h2>
 
-<!-- Tech icons with theme support using picture tags -->
+<!-- Tech icons with theme support - Fixed version -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,kotlin,java,javascript,python,html,css,php,react,jquery,bootstrap,firebase,mysql&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,kotlin,java,javascript,python,html,css,php,react,jquery,bootstrap,firebase,mysql&theme=light">
-    <img src="https://skillicons.dev/icons?i=flutter,kotlin,java,javascript,python,html,css,php,react,jquery,bootstrap,firebase,mysql&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,kotlin,java,js,py,html,css,php,react,jquery,bootstrap,firebase,mysql&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,kotlin,java,js,py,html,css,php,react,jquery,bootstrap,firebase,mysql&theme=light">
+    <img src="https://skillicons.dev/icons?i=flutter,kotlin,java,js,py,html,css,php,react,jquery,bootstrap,firebase,mysql" alt="Tech Stack" />
   </picture>
 </p>
 
